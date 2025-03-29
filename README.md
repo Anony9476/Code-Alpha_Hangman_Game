@@ -1,5 +1,6 @@
-# Code-Alpha_Task
-# Mystery Hangman Game
+# CodeAlpha Internship Program
+## Python Programming
+# Mystery Hangman Game Project
 
 ## Overview
 Mystery Hangman is a simple word-guessing game built using Python and Tkinter. The goal is to guess the hidden word by selecting letters one at a time before running out of attempts.
