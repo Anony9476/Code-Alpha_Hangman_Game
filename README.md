@@ -62,5 +62,5 @@ This project is open-source and available under the MIT License.
 Feel free to fork the repository and submit pull requests to improve the game!
 
 ## Author
-Abdul Haseeb - Python Developer
+Abdul Haseeb - Python Developer 
 
